@@ -1,0 +1,7 @@
+1. Craate fil
+	touch <filanama>
+2. Edit Fila 
+	vi <filename>
+3. Delete file
+	rm <filename>
+
